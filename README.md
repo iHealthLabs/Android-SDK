@@ -1,6 +1,6 @@
 # Android-SDK
 
-Latest version: 1.0.21
+Latest version: 1.0.22
 
 
 
@@ -16,3 +16,7 @@ Latest version: 1.0.21
             "Calories":0
        }  
    ```
+   
+ 2. Version : 1.0.22  
+   Update date: 2016.5.31  
+   Description: Fix AM3S bug
